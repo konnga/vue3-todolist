@@ -1,7 +1,7 @@
 <!--
- * @Author: WangJiaCheng
+ * @Author: konnga
  * @Date: 2021-09-11 15:17:56
- * @LastEditors: WangJiaCheng
+ * @LastEditors: konnga
  * @LastEditTime: 2021-09-14 09:45:50
  * @Description: 
 -->
@@ -100,7 +100,7 @@ const handleClearCompleted = ():void => {
   <footer class="info">
     <p>Double-click to edit a todo</p>
     <p>tods developed by sfc and ts</p>
-    <p>Written by <a href="http://konnga.cn">WangJiaCheng</a></p>
+    <p>Written by <a href="http://konnga.cn">konnga</a></p>
     <p>Part of <a href="http://todomvc.com">TodoMVC</a></p>
   </footer>
 </template>
