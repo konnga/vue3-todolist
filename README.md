@@ -4,6 +4,11 @@
 
 使用 Vue 3 + Typescript + Vite 开发的 todoList 应用。
 
+## 运行
+
+- yarn install
+- yarn dev
+
 ### 技术点
 
 #### typescript + vue3
@@ -116,3 +121,4 @@ app.directive('todo-focus', {
   }
 })
 ```
+...
